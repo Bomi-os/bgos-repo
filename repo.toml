@@ -1,0 +1,11 @@
+# Index PacPak — dépôt officiel BGOS
+# Chaque [[packages]] référence un artefact .bbb publié en GitHub Release.
+# La clé pacpak.repo du shell pointe vers ce fichier.
+
+[[packages]]
+id = "fichiers--bomi"
+name = "Fichiers"
+version = "0.1.0"
+file = "Fichiers.bbb"
+sha256 = "2879E6615720646BF423F1E330545948D9A597C30011E6F3F488BDBB1D9EC1FB"
+url = "https://github.com/Bomi-os/bgos-repo/releases/download/v0.1.0/Fichiers.bbb"
