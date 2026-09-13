@@ -5,7 +5,7 @@
 [[packages]]
 id = "fichiers--bomi"
 name = "Fichiers"
-version = "0.1.0"
+version = "0.2.1"
 file = "Fichiers.bbb"
-sha256 = "2879E6615720646BF423F1E330545948D9A597C30011E6F3F488BDBB1D9EC1FB"
-url = "https://github.com/Bomi-os/bgos-repo/releases/download/v0.1.0/Fichiers.bbb"
+sha256 = "0F836252F7F4F6502CE005000E78E6252AEEB6C88225FA701E0B9C1D7E098F30"
+url = "https://github.com/Bomi-os/bgos-repo/releases/download/v0.2.1/Fichiers.bbb"
